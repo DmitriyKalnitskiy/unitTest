@@ -1,0 +1,12 @@
+Имя: Vova
+Фамилия: Petrov
+Возраст: 35
+Пол: male
+Отзыв: Very well!
+
+Имя: Vova
+Фамилия: Petrov
+Возраст: 35
+Пол: male
+Отзыв: Very well!
+
